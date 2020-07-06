@@ -1,4 +1,4 @@
-﻿FROM davexacom/ace11002mqc91soe:latest
+﻿FROM cp.icr.io/cp/icp4i/ace/ibm-acecc-configurator-prod:11.0.0.8-r1-amd64
 # if using with Buildah in Tekton the ENV won't work
 #ENV BAR1=Microservice2.bar
 
